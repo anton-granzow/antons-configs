@@ -1,0 +1,36 @@
+{
+  "autoCollapseExpandSubtreeOnAttach": false,
+  "autoCollapseExpandSubtreeOnSelect": false,
+  "cachedExternalAddons": [
+    "{731bf636-c808-4c86-b02f-af462eccc963}",
+    "tst-more-tree-commands@piro.sakura.ne.jp"
+  ],
+  "chunkedUserStyleRules0": "I2FsbC10YWJzIHsKICAgIGJvcmRlcjogbm9uZSAhaW1wb3J0YW50Owp9Cgp0YWItaXRlbSB0YWItZmF2aWNvbiB7CiAgICBsZWZ0OiA3cHg7CiAgCW9yZGVyOiAtNAp9CgoKCnRhYi1pdGVtIC5sYWJlbCB7CiAgICBwYWRkaW5nLWJvdHRvbTogMnB4OwogICAgbWFyZ2luLWxlZnQ6IDExcHg7CiAgICBvcmRlcjogLTM7Cn0KCnRhYi1pdGVtIC50d2lzdHkgewogICAgLyogZGlzcGxheSA6IG5vbmU7ICFpbXBvcnRhbnQ7ICovCn0KCgoKLnNvdW5kLWJ1dHRvbjphZnRlciB7CiAgICBtYXJnaW4tdG9wOiAycHg7Cn0KCi5jb3VudGVyIHsKICAgIGNvbG9yOiAjZmZmZmZmICFpbXBvcnRhbnQ7CiAgICBiYWNrZ3JvdW5kOiAjOTkyZjhkIWltcG9ydGFudDsKICAgIGJvcmRlci1yYWRpdXM6IDEwcHg7CiAgICBtYXJnaW46IDJweCAycHggMHB4IDBweDsKICAgIHBhZGRpbmc6IDAgOHB4OwogICAgcGFkZGluZy1ib3R0b206IDJweDsKICAgIG9yZGVyOiAtMiAhaW1wb3J0YW50Owp9CgouY291bnRlcjpiZWZvcmUsCi5jb3VudGVyOmFmdGVyIHsKICAgIGNvbnRlbnQ6ICIiOwp9CgoKdGFiLWl0ZW0uZGlzY2FyZGVkIC5sYWJlbC1jb250ZW50IHsKICBjb2xvcjogIzdFN0U3RTsKfQoKdGFiLWl0ZW0uZGlzY2FyZGVkIHRhYi1mYXZpY29uIHsKICBvcGFjaXR5OiAwLjUgIWltcG9ydGFudDsKfQoKCiN0YWJiYXIgdGFiLWl0ZW0gdGFiLWl0ZW0tc3Vic3RhbmNlOm5vdCg6aG92ZXIpIHRhYi1jbG9zZWJveCB7CiAgZGlzcGxheTogbm9uZTsKfQoKCjpyb290LmxlZnQgdGFiLWl0ZW0gdGFiLWZhdmljb24gewogICAgdHJhbnNmb3JtOiBzY2FsZSgxMjAlKTsKICAgIG1hcmdpbi1yaWdodDogNXB4Owp9Cgp0YWItaXRlbTpub3QoW2RhdGEtbGV2ZWw9IjAiXSkgewogICAgYm9yZGVyLWxlZnQ6IHNvbGlkIDNweCAjNmM2OGI3ICFpbXBvcnRhbnQ7Cn0KdGFiLWl0ZW06bm90KFtkYXRhLWxldmVsPSIwIl0pIHRhYi1mYXZpY29uIHsKICAgIG1hcmdpbi1sZWZ0IDogLTJweCAhaW1wb3J0YW50Owp9CnRhYi1pdGVtW2RhdGEtbGV2ZWw9IjEiXSB7CiAgICBib3JkZXItbGVmdDogc29saWQgM3B4ICNjOTRmNmQgIWltcG9ydGFudDsKfQoKdGFiLWl0ZW1bZGF0YS1sZXZlbD0iMiJdIHsKICAgIGJvcmRlci1sZWZ0OiBzb2xpZCAzcHggI2RiYzA3NCAhaW1wb3J0YW50Owp9Cgp0YWItaXRlbVtkYXRhLWxldmVsPSIzIl0gewogICAgYm9yZGVyLWxlZnQ6IHNvbGlkIDNweCAjNWNiODg3ICFpbXBvcnRhbnQ7Cn0KCnRhYi1pdGVtLnBpbm5lZCB7CiAgICBtYXJnaW4tbGVmdDogNXB4ICFpbXBvcnRhbnQ7CiAgICBwYWRkaW5nOiAwcHggIWltcG9ydGFudDsKfQoKdGFiLWl0ZW0ucGlubmVkIHRhYi1mYXZpY29uIHsKICAgIG1hcmdpbi1sZWZ0OiAtN3B4ICFpbXBvcnRhbnQ7CiAgICBwYWRkaW5nOiAwcHggIWltcG9ydGFudDsKfQoKI3RhYmJhci5vdmVyZmxvdyB7IHNjcm9sbGJhci13aWR0aDogbm9uZTsgfSAKCjpyb290LnNpZGViYXIgI2JhY2tncm91bmQgewogIGJhY2tncm91bmQ6ICMyQjJBMzM7Cn0K",
+  "configsVersion": 25,
+  "incognitoAllowedExternalAddons": [
+    "tst-active-tab-in-collapsed-tree@piro.sakura.ne.jp",
+    "{731bf636-c808-4c86-b02f-af462eccc963}"
+  ],
+  "maxTreeLevel": 0,
+  "notifiedFeaturesVersion": 9,
+  "optionsExpandedSections": [
+    "section-advanced",
+    "section-addons",
+    "section-debug",
+    "section-appearance"
+  ],
+  "showExpertOptions": true,
+  "syncDevices": {
+    "device-1640535426078-10007": {
+      "id": "device-1640535426078-10007",
+      "name": "Firefox unter Linux",
+      "icon": "device-desktop",
+      "timestamp": 1659468313687
+    }
+  },
+  "treeDoubleClickBehavior": 1,
+  "userStyleRules": "",
+  "userStyleRulesFieldHeight": "506px",
+  "warnOnCloseTabs": false,
+  "warnOnCloseTabsByClosebox": false
+}
