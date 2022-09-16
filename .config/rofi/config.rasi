@@ -1,0 +1,8 @@
+configuration {
+
+    modi: "combi,drun,calc";
+    show-icons: true;
+
+}
+
+@theme "~/.config/rofi/themes/dracula1.rasi"
